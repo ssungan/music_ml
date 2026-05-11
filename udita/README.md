@@ -27,3 +27,13 @@
 - https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/
 - https://scikit-learn.org/stable/modules/grid_search.html
 - https://www.kaggle.com/code/grandwizard/music-genre-classification-with-logreg-svm-knn#SVM
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html
+- https://scikit-learn.org/stable/modules/ensemble.html
+- https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/
+- https://www.blog.trainindata.com/hyperparameters-in-machine-learning/
+- https://medium.com/@miramnair/feature-selection-mutual-information-a0def943e1ed
+- https://medium.com/@jaberi.mohamedhabib/feature-selection-techniques-in-machine-learning-4c395e4a8205
+- https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
+- https://machinelearningmastery.com/machine-learning-for-programmers/
+- https://scikit-learn.org/stable/modules/feature_selection.html
+- https://www.geeksforgeeks.org/machine-learning/feature-selection-techniques-in-machine-learning/
